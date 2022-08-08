@@ -1,0 +1,9 @@
+﻿{
+  "windowsAppDriver": {
+    "capabilities": {
+      "app": "../../../../WorkingDirTest/bin/Debug/net6.0-windows/WorkingDirTest.exe",
+      "appWorkingDir": "../../../../WorkingDirTest/bin/Debug/net6.0-windows"
+    },
+    "WindowsAppDriverPath": "C:/Program Files (x86)/Windows Application Driver/WinAppDriver.exe"
+  }
+}
